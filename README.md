@@ -4,4 +4,4 @@ i don't like Frontent because is too boring for me.
 I've been working at [Nelmix](https://nelmix.com) since 2021
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tcris" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tcris" /></p>
